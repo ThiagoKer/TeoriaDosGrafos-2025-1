@@ -12,9 +12,8 @@ if __name__ == "__main__":
     print(f"Tamanho: {grafo.tamanho()}")
 
     grafo.printGrafo()
-
-    print(f"Vizinhos de {0}: {grafo.vizinhos(0)}")
-    print(f"Vizinhos de {1}: {grafo.vizinhos(1)}")
-    print(f"Vizinhos de {2}: {grafo.vizinhos(2)}")
-    print(f"Vizinhos de {3}: {grafo.vizinhos(3)}")
-    print(f"Vizinhos de {4}: {grafo.vizinhos(4)}")
+    for i in range(grafo.numVertices):
+        print(f"Vizinhos de {i}: {grafo.vizinhos(i)}")
+    
+    for i in range(grafo.numVertices):
+        print(f"Grau do vertice {i}: {grafo.grau(i)}")
