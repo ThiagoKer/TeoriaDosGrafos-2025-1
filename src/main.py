@@ -2,11 +2,11 @@ from matrizAdjacencias import MatrizAdjacencias
 from listaAdjacencias import ListaAdjacencias
 
 if __name__ == "__main__":
-    grafo = MatrizAdjacencias(5)
-    grafo.addAresta(0, 1, 2)
-    grafo.addAresta(0, 2, 4)
-    grafo.addAresta(1, 4, 7)
-    grafo.addAresta(4, 0, 3)
+    grafo = ListaAdjacencias(4)
+    grafo.addAresta(0, 2, 5)
+    grafo.addAresta(0, 3, 3)
+    grafo.addAresta(1, 2, 2)
+    grafo.addAresta(3, 1, 1)
 
     print(f"Ordem: {grafo.ordem()}")
     print(f"Tamanho: {grafo.tamanho()}")
