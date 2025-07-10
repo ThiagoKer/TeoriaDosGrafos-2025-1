@@ -1,5 +1,6 @@
 from matrizAdjacencias import MatrizAdjacencias
 from listaAdjacencias import ListaAdjacencias
+import info
 
 if __name__ == "__main__":
     grafo = ListaAdjacencias(4)
@@ -17,3 +18,9 @@ if __name__ == "__main__":
     
     for i in range(grafo.numVertices):
         print(f"Grau do vertice {i}: {grafo.grau(i)}")
+
+    print(f"Densidade: {info.densidade(grafo)}")
+
+    print("Grafo complementar:")
+    comp = info.complemento(grafo)
+    comp.printGrafo()
