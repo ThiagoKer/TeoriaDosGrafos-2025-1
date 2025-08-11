@@ -1,0 +1,930 @@
+Comando executado: main.py toy.txt 0 1
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 2, 1]
+Custo: 4
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0004 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 2, 1]
+Custo: 4
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0006 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 2, 1]
+Custo: 4
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0008 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py toy.txt 0 2
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 2]
+Custo: 2
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0003 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 2]
+Custo: 2
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0006 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 2]
+Custo: 2
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0008 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py toy.txt 1 3
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 3]
+Custo: 1
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0003 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 3]
+Custo: 1
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0006 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [1, 3]
+Custo: 1
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0008 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py toy.txt 1 4
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 4]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0003 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 4]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0006 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [1, 4]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0008 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py toy.txt 2 1
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [2, 1]
+Custo: 2
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0003 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [2, 1]
+Custo: 2
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0006 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [2, 1]
+Custo: 2
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0008 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py toy.txt 2 3
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [2, 1, 3]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0004 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [2, 1, 3]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0006 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [2, 1, 3]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0008 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py toy.txt 3 4
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [3, 4]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0002 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [3, 4]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0006 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [3, 4]
+Custo: 3
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0008 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py facebook_combined.txt 0 1
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 1]
+Custo: 1
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 1]
+Custo: 1
+Tempo execu��o: 0.551 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 2
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 2]
+Custo: 1
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 2]
+Custo: 1
+Tempo execu��o: 0.579 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 3
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 3]
+Custo: 1
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 3]
+Custo: 1
+Tempo execu��o: 0.550 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 4
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 4]
+Custo: 1
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 4]
+Custo: 1
+Tempo execu��o: 0.554 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 5
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 5]
+Custo: 1
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 5]
+Custo: 1
+Tempo execu��o: 0.596 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 6
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 6]
+Custo: 1
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 6]
+Custo: 1
+Tempo execu��o: 0.623 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 7
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 7]
+Custo: 1
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 7]
+Custo: 1
+Tempo execu��o: 0.708 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 8
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 8]
+Custo: 1
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 8]
+Custo: 1
+Tempo execu��o: 0.683 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 9
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 9]
+Custo: 1
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 9]
+Custo: 1
+Tempo execu��o: 0.753 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py facebook_combined.txt 0 10
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 10]
+Custo: 1
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.1337 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 10]
+Custo: 1
+Tempo execu��o: 0.808 s
+Mem�ria utilizada: 24.5999 MB
+Comando executado: main.py rg300_768.txt 0 1
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 1]
+Custo: 100
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0067 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 1]
+Custo: 100
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0655 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 1]
+Custo: 100
+Tempo execu��o: 11.148 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_768.txt 0 59
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 59]
+Custo: 17
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0052 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 59]
+Custo: 17
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0661 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 59]
+Custo: 17
+Tempo execu��o: 11.183 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_768.txt 0 118
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 118]
+Custo: 39
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0052 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 118]
+Custo: 39
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0661 MB
+Comando executado: main.py rg300_768.txt 0 239
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 239]
+Custo: 45
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0053 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 239]
+Custo: 45
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0661 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 118]
+Custo: 39
+Tempo execu��o: 11.181 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_768.txt 1 2
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 2]
+Custo: 100
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0108 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 2]
+Custo: 100
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.0640 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 239]
+Custo: 45
+Tempo execu��o: 11.291 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_768.txt 1 83
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 83]
+Custo: 28
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0053 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 83]
+Custo: 28
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0661 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [1, 2]
+Custo: 100
+Tempo execu��o: 11.269 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_768.txt 1 109
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 109]
+Custo: 26
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0052 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 109]
+Custo: 26
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0661 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [1, 83]
+Custo: 28
+Tempo execu��o: 11.248 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [1, 109]
+Custo: 26
+Tempo execu��o: 11.178 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_768.txt 1 143
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 143]
+Custo: 31
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0054 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 143]
+Custo: 31
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0660 MB
+Comando executado: main.py rg300_768.txt 2 3
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [2, 3]
+Custo: 100
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0086 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [2, 3]
+Custo: 100
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0648 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [1, 143]
+Custo: 31
+Tempo execu��o: 11.345 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_768.txt 2 182
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [2, 182]
+Custo: 1
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0052 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [2, 182]
+Custo: 1
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0661 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [2, 3]
+Custo: 100
+Tempo execu��o: 11.333 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [2, 182]
+Custo: 1
+Tempo execu��o: 11.281 s
+Mem�ria utilizada: 3.4450 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_4730.txt 0 1
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 15, 13, 21, 57, 1]
+Custo: 15
+Tempo execu��o: 0.004 s
+Mem�ria utilizada: 0.0672 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 15, 45, 144, 294, 1]
+Custo: 15
+Tempo execu��o: 0.012 s
+Mem�ria utilizada: 0.6691 MB
+Comando executado: main.py rg300_4730.txt 0 59
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 39, 59]
+Custo: 9
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0546 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 39, 59]
+Custo: 9
+Tempo execu��o: 0.013 s
+Mem�ria utilizada: 0.6691 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 15, 13, 21, 57, 1]
+Custo: 15
+Tempo execu��o: 16.009 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 39, 59]
+Custo: 9
+Tempo execu��o: 15.999 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_4730.txt 0 118
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 39, 59, 198, 118]
+Custo: 17
+Tempo execu��o: 0.004 s
+Mem�ria utilizada: 0.0672 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 39, 59, 198, 118]
+Custo: 17
+Tempo execu��o: 0.013 s
+Mem�ria utilizada: 0.6691 MB
+Comando executado: main.py rg300_4730.txt 0 154
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 132, 154]
+Custo: 14
+Tempo execu��o: 0.004 s
+Mem�ria utilizada: 0.0672 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 132, 154]
+Custo: 14
+Tempo execu��o: 0.013 s
+Mem�ria utilizada: 0.6691 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 39, 59, 198, 118]
+Custo: 17
+Tempo execu��o: 15.985 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_4730.txt 0 166
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 39, 133, 166]
+Custo: 11
+Tempo execu��o: 0.002 s
+Mem�ria utilizada: 0.0652 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 39, 133, 166]
+Custo: 11
+Tempo execu��o: 0.012 s
+Mem�ria utilizada: 0.6691 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 132, 154]
+Custo: 14
+Tempo execu��o: 16.095 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_4730.txt 0 188
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 15, 149, 188]
+Custo: 11
+Tempo execu��o: 0.003 s
+Mem�ria utilizada: 0.0654 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 15, 149, 188]
+Custo: 11
+Tempo execu��o: 0.011 s
+Mem�ria utilizada: 0.6691 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 39, 133, 166]
+Custo: 11
+Tempo execu��o: 16.137 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_4730.txt 0 230
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 230]
+Custo: 14
+Tempo execu��o: 0.004 s
+Mem�ria utilizada: 0.0672 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 230]
+Custo: 14
+Tempo execu��o: 0.013 s
+Mem�ria utilizada: 0.6691 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 15, 149, 188]
+Custo: 11
+Tempo execu��o: 16.134 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_4730.txt 0 239
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 15, 91, 239]
+Custo: 19
+Tempo execu��o: 0.006 s
+Mem�ria utilizada: 0.0672 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 15, 91, 239]
+Custo: 19
+Tempo execu��o: 0.012 s
+Mem�ria utilizada: 0.6691 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 230]
+Custo: 14
+Tempo execu��o: 16.070 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_4730.txt 0 274
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 15, 97, 211, 296, 274]
+Custo: 12
+Tempo execu��o: 0.003 s
+Mem�ria utilizada: 0.0670 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 15, 97, 211, 296, 274]
+Custo: 12
+Tempo execu��o: 0.012 s
+Mem�ria utilizada: 0.6691 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 15, 91, 239]
+Custo: 19
+Tempo execu��o: 16.001 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rg300_4730.txt 1 2
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 294, 52, 157, 2]
+Custo: 8
+Tempo execu��o: 0.001 s
+Mem�ria utilizada: 0.0458 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 294, 52, 157, 2]
+Custo: 8
+Tempo execu��o: 0.017 s
+Mem�ria utilizada: 0.6691 MB
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [0, 15, 97, 211, 296, 274]
+Custo: 12
+Tempo execu��o: 16.169 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+Algoritmo de Floyd-Warshall:
+Caminho m�nimo: [1, 294, 52, 157, 2]
+Custo: 8
+Tempo execu��o: 16.238 s
+Mem�ria utilizada: 3.4100 MB
+-----------------------------------------------------------------------------
+Comando executado: main.py rome99c.txt 2957 2958
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [2957, 2958]
+Custo: 535
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0518 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [2957, 2958]
+Custo: 535
+Tempo execu��o: 0.346 s
+Mem�ria utilizada: 1.4503 MB
+Comando executado: main.py rome99c.txt 1493 1572
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1493, 1572]
+Custo: 77
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0518 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1493, 1572]
+Custo: 77
+Tempo execu��o: 0.239 s
+Mem�ria utilizada: 1.4503 MB
+Comando executado: main.py rome99c.txt 1589 1602
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1589, 1602]
+Custo: 184
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0518 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1589, 1602]
+Custo: 184
+Tempo execu��o: 0.278 s
+Mem�ria utilizada: 1.4503 MB
+Comando executado: main.py rome99c.txt 2633 2634
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [2633, 2634]
+Custo: 179
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0518 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [2633, 2634]
+Custo: 179
+Tempo execu��o: 0.331 s
+Mem�ria utilizada: 1.4503 MB
+Comando executado: main.py rome99c.txt 1983 1984
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1983, 1984]
+Custo: 22
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0517 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1983, 1984]
+Custo: 22
+Tempo execu��o: 0.265 s
+Mem�ria utilizada: 1.4504 MB
+Comando executado: main.py rome99c.txt 1452 1453
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1452, 1453]
+Custo: 33
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0522 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1452, 1453]
+Custo: 33
+Tempo execu��o: 0.309 s
+Mem�ria utilizada: 1.4503 MB
+Comando executado: main.py rome99c.txt 1452 1449
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1452, 1449]
+Custo: 48
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0522 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1452, 1449]
+Custo: 48
+Tempo execu��o: 0.318 s
+Mem�ria utilizada: 1.4502 MB
+Comando executado: main.py rome99c.txt 696 697
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [696, 697]
+Custo: 50
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0518 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [696, 697]
+Custo: 50
+Tempo execu��o: 0.353 s
+Mem�ria utilizada: 1.4503 MB
+Comando executado: main.py rome99c.txt 1446 1452
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1446, 1452]
+Custo: 23
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0520 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1446, 1452]
+Custo: 23
+Tempo execu��o: 0.359 s
+Mem�ria utilizada: 1.4503 MB
+Comando executado: main.py rome99c.txt 2035 2033
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [2035, 2033]
+Custo: 71
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.0518 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [2035, 2033]
+Custo: 71
+Tempo execu��o: 0.444 s
+Mem�ria utilizada: 1.4503 MB
+Comando executado: main.py USA-road-dt.DC.txt 0 1
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [0, 1]
+Custo: 231
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1463 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [0, 1]
+Custo: 231
+Tempo execu��o: 1.004 s
+Mem�ria utilizada: 6.0587 MB
+Comando executado: main.py USA-road-dt.DC.txt 1 0
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 0]
+Custo: 231
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1467 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 0]
+Custo: 231
+Tempo execu��o: 1.062 s
+Mem�ria utilizada: 6.0587 MB
+Comando executado: main.py USA-road-dt.DC.txt 1 2
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 2]
+Custo: 452
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1469 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 2]
+Custo: 452
+Tempo execu��o: 1.141 s
+Mem�ria utilizada: 6.0586 MB
+Comando executado: main.py USA-road-dt.DC.txt 2 1
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [2, 1]
+Custo: 452
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1463 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [2, 1]
+Custo: 452
+Tempo execu��o: 1.302 s
+Mem�ria utilizada: 6.0587 MB
+Comando executado: main.py USA-road-dt.DC.txt 3 1
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [3, 1]
+Custo: 305
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1468 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [3, 1]
+Custo: 305
+Tempo execu��o: 1.341 s
+Mem�ria utilizada: 6.0587 MB
+Comando executado: main.py USA-road-dt.DC.txt 1 3
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [1, 3]
+Custo: 305
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1467 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [1, 3]
+Custo: 305
+Tempo execu��o: 1.387 s
+Mem�ria utilizada: 6.0587 MB
+Comando executado: main.py USA-road-dt.DC.txt 4 5
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [4, 5]
+Custo: 168
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1468 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [4, 5]
+Custo: 168
+Tempo execu��o: 1.720 s
+Mem�ria utilizada: 6.0586 MB
+Comando executado: main.py USA-road-dt.DC.txt 5 4
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [5, 4]
+Custo: 168
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1463 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [5, 4]
+Custo: 168
+Tempo execu��o: 1.817 s
+Mem�ria utilizada: 6.0587 MB
+Comando executado: main.py USA-road-dt.DC.txt 6 7
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [6, 7]
+Custo: 706
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1475 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [6, 7]
+Custo: 706
+Tempo execu��o: 1.957 s
+Mem�ria utilizada: 6.0584 MB
+Comando executado: main.py USA-road-dt.DC.txt 7 6
+-----------------------------------------------------------------------------
+Algoritmo de Dijkstra:
+Caminho m�nimo: [7, 6]
+Custo: 706
+Tempo execu��o: 0.000 s
+Mem�ria utilizada: 0.1463 MB
+-----------------------------------------------------------------------------
+Algoritmo de Bellman-Ford:
+Caminho m�nimo: [7, 6]
+Custo: 706
+Tempo execu��o: 2.248 s
+Mem�ria utilizada: 6.0587 MB
